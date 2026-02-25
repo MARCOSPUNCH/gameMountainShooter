@@ -1,6 +1,5 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
-from selectors import SelectSelector
 
 import pygame
 from pygame import Surface, Rect
